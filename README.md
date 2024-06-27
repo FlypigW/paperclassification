@@ -1,5 +1,3 @@
 # paperclassification
 一个给pdf加tag并分类的程序
-我试试push
-我push第二次
-我现在试试直接push到git
+git=必要
